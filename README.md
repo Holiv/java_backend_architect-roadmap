@@ -53,6 +53,7 @@
 #### <i>Repositories from this courses: <a href="https://github.com/Holiv/startse-desafio-2">Desafio 2 StartSe - Formulário</a> | <a href="https://github.com/Holiv/number-guesser-js">Number Guesser</a> | <a href="https://github.com/Holiv/modelo-portfolio-startse">Desafio 1 StartSe - Modelo Portfolio</a> | <a href="https://github.com/Holiv/convite-aniversario-js">Convite Interativo</a> | <a href="https://github.com/Holiv/login-instagram-dio">Login Instagram</a> | <a href="https://github.com/Holiv/js-beginner-counter">Counter - JS</a> | <a href="https://github.com/Holiv/js-beginner-verificador-soma">Verificador de Soma</a> |
  </i>
 
+
 ------ -->
 
 ## Courses Guide
@@ -86,12 +87,12 @@
 |  <img width="18px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png"><a href="https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/">	Software Architecture & Design of Modern Large Scale Systems</a>  |   | Not Started  |
 |  <img width="18px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png"><a href="https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/">	Software Architecture & System Design Practical Case Studies</a>  |   | Not Started  |
 | <i><b>Backend Advanced </b></i>| -| - | - |
-| <img width="18px" src=""><a href="https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols"> Fundamentals of Backend Engineering</a>   |   | Not Started  |
+| <img width="18px" src="https://user-images.githubusercontent.com/97141987/236640408-7fcbba1d-9a7b-4319-bbf1-ab670a606d30.png"><a href="https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols"> Fundamentals of Backend Engineering</a>   |   | Not Started  |
 | <img width="18px" src="https://user-images.githubusercontent.com/97141987/236518766-e01dec6a-7c8d-4913-8f9b-167146eaba05.png"><a href="https://www.udemy.com/course/docker-mastery/"> Docker Mastery: with Kubernetes +Swarm from a Docker Captain</a>   |   | Not Started  |
 | <img width="20px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png"><a href="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/"> Building Real-Time REST APIs with Spring Boot - Blog App (Prático)</a>   |   |  Not Started |
 | <img width="18px" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png"><a href="https://www.udemy.com/course/apache-kafka/"> Apache Kafka Series - Learn Apache Kafka for Beginners v3</a>   |   | Not Started  |
 |  <img width="18px" src="https://user-images.githubusercontent.com/97141987/236518187-a1ac5dbb-4489-45be-950b-cbb798649d9c.png"><a href="https://www.udemy.com/course/comunicacao-em-tempo-real-com-spring-boot-websocket-e-redis/"> Comunicação em Tempo Real com Spring Boot, WebSocket e Redis</a>  |   |  Not Started |
-|  <img width="18px" src=""><a href="https://www.udemy.com/course/spring-webflux/">	Reactive Microservices with Spring WebFlux</a>  |   | Not Started  |
+|  <img width="18px" src="https://user-images.githubusercontent.com/97141987/236640400-25884fba-1018-4894-b5a8-c38c4cf4be09.png"><a href="https://www.udemy.com/course/spring-webflux/">	Reactive Microservices with Spring WebFlux</a>  |   | Not Started  |
 |  <img width="18px" src="https://user-images.githubusercontent.com/97141987/236519169-f2ffa80d-95a9-4dc8-a348-8d81b4555f0e.png"><a href="https://www.udemy.com/course/nginx-beginner-to-advanced/">	Nginx 2023- Beginner to Advanced</a>  |   | Not Started  |
 |  <i><b>DevOps, Cloud & More</b></i>  | -| - | - |
 | <img width="18px" src="https://user-images.githubusercontent.com/97141987/236519781-23026448-e802-4ff5-aaf3-6687c39c107a.png"> <a href="https://www.udemy.com/course/decodingdevops/">	DevOps Beginners to Advanced - Decoding DevOps with Projects</a>  |   | Not Started |
