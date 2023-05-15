@@ -65,7 +65,7 @@
 |  Course |  Class Notes | Status | Certificate |
 | ------------ | ------------ | ------------ | ------------ |
 |  <i><b>Java Core</b></i>  | -| - | - |
-| <img width="18px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png"> <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=533682"> Java Programming Masterclass updated to Java 17</a>  | <div align='center'><a href='#'>Read Note</a></div>  | Progress - 45%  |
+| <img width="18px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-59-1174952.png"> <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=533682"> Java Programming Masterclass updated to Java 17</a>  | <div align='center'><a href='#'>Read Note</a></div>  | Progress - 65%  |
 | <img width="18px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png"> <a href="https://www.udemy.com/course/spring-hibernate-tutorial/"> Spring Boot 3, Spring 6 & Hibernate for Beginners</a>  | <div align='center'><a href='#'> Read Note</a></div>  | Not Started |
 | <img width="18px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png"><a href="https://www.udemy.com/course/jsp-tutorial/"> JSP, Servlets and JDBC for Beginners: Build a Database App (Pratical) </a>   |  |  Not Started |
 | <img width="18px" src="https://user-images.githubusercontent.com/97141987/236517831-f28fcc0c-dc30-48dd-87d5-242eb80ae867.png"><a href="https://www.udemy.com/course/spring-boot-unit-testing/"> Spring Boot Unit Testing with JUnit, Mockito and MockMvc</a>   |   |  Not Started |
